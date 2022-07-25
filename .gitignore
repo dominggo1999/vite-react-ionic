@@ -58,3 +58,6 @@ yarn-error.log*
 .svn/ 
 .svn-base
 .vercel
+
+keystore 
+keystore.jks.base64.txt
